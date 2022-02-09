@@ -1,4 +1,4 @@
 #diagrama de clases
 >Aqui va el diagrama
 
-![Diagrama](clases.png)
+![Diagrama](E:\dia\clases.png)
