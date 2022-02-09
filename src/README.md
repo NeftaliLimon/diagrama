@@ -1,4 +1,4 @@
 #diagrama de clases
 >Aqui va el diagrama
 
-![Diagrama](RL512i8m4Bpt5NkCg7yGHBo81psAXvWi4aaJIRP54V_kfasaH6-PsPcTOREA90DrhMqQPMMCSAHEeuDN0x0yKZ3k2awsE84ieufINYSu7yq4Ok9SGENx4iar6sq3lYBjUIugRfTzDRzcEtFlqdmRV7T__RPQvbQdCyJn5HDhk2UwuAr5NN306oeQy7nO9oQh5f0aIjwbClJyNuQvY_SMfGE.png)
+![Diagrama](clases.png)
